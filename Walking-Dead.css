@@ -1,0 +1,134 @@
+body {
+	background: linear-gradient(to bottom right, #339933 12%, #000000 57%); 
+	
+	font-family: impact, sans-serif;
+	color:#FFF6d9;
+
+}
+
+#container {
+	width: 800px;
+	height: 2450px;
+	margin: auto;
+}
+
+#header {
+	width:800px;
+	font-size: 30px;
+	background-color: #000000;
+	margin: auto
+}
+h1 {
+	text-align: center;
+}
+
+#footer {
+	width: 800px;
+	background-color: #000000;
+	margin: auto;
+	clear: both;
+	height: 80px;
+}
+h5 {
+	padding-top: 30px;
+	text-align: center;
+}
+
+#left-sidebar {
+	width: 200px;
+	height: 2450px;
+	background-color:#8A0707;
+	float: left
+}
+
+#Rick-Description {
+	visibility: hidden;
+}
+#Rick:hover #Rick-Description {
+	visibility: visible;
+}
+#Daryl-Description {
+	visibility: hidden;
+}
+#Daryl:hover #Daryl-Description {
+	visibility: visible;
+}
+#Glenn-Description {
+	visibility: hidden;
+}
+#Glenn:hover #Glenn-Description {
+	visibility: visible;
+}
+#Maggie-Description {
+	visibility: hidden;
+}
+#Maggie:hover #Maggie-Description {
+	visibility: visible;
+}
+
+#Carl-Description {
+	visibility: hidden;
+}
+#Carl:hover #Carl-Description {
+	visibility: visible;
+}
+
+#Michonne-Description {
+	visibility: hidden;
+}
+#Michonne:hover #Michonne-Description {
+	visibility: visible;
+}
+
+/*#main-section-with-right {
+	width: 600px;
+	float:left;
+	margin: auto;
+}
+*/
+#main-section {
+	background-color: #77878B;
+	width: 600px;
+	float: left;
+}
+
+#right-sidebar {
+	background-color: #420C14;
+	width: 200px;
+	float: right;
+}
+
+#Rick-Season1 {
+	float:left;
+}
+#CDC-Pic {
+	float: left;
+}
+#Hershel {
+	float: left;
+}
+#The-Gov {
+	float:left;
+}
+#The-Prison {
+	float:left;
+}
+#Terminus {
+	float:left;
+}
+#Daryl-Beth {
+	float: left;
+}
+ol {
+	text-transform: uppercase;
+}
+
+li {
+	padding: 3px;
+}
+
+h1 {
+	text-transform: uppercase;
+	
+}
+
